@@ -17,3 +17,6 @@ related to brain activity” -Ramandeep Bagri
 ### Contributors:
 Imani Aguiar-Garcia, UCSC, Major: Politics <br/>
 Grant Kromhout, UCSC, Major: Politics 
+
+### Sincere thank you 
+Sincere thank you to Prof Shive, ECE, UCSC for her help for the useful conversations on the project topic.
