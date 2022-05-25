@@ -15,8 +15,8 @@ as Autism, anxiety, depression, unforeseen behavioral issues or any psychologica
 related to brain activity” -Ramandeep Bagri 
 
 ### Contributors:
-Imani Aguiar-Garcia, UCSC, Major: Politics <br/>
-Grant Kromhout, UCSC, Major: Politics 
+Imani Aguiar-Garcia, UCSC, Student <br/>
+Grant Kromhout, UCSC, Student 
 
 ### Sincere thank you 
 Sincere thank you to Prof Shive, ECE, UCSC for her help for the useful conversations on the project topic.
