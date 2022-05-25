@@ -14,3 +14,6 @@ for daily clinical psychological analysis’s and treat patients with evidence f
 as Autism, anxiety, depression, unforeseen behavioral issues or any psychological problem
 related to brain activity” -Ramandeep Bagri 
 
+### Contributors:
+Imani Aguiar-Garcia
+Grant Kromhout 
