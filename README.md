@@ -19,4 +19,4 @@ Imani Aguiar-Garcia, UCSC, Student <br/>
 Grant Kromhout, UCSC, Student 
 
 ### Sincere thank you 
-Sincere thank you to Prof Shive, ECE, UCSC for her help for the useful conversations on the project topic.
+Sincere thank you to Prof Shive, ECE, UCSC for her useful discussions on the topic.
